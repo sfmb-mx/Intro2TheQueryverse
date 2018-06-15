@@ -1,0 +1,4 @@
+using Queryverse, VegaDatasets, IndexedTables
+cars
+cars |> Voyager()
+quit()
