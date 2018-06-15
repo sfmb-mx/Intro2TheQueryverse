@@ -1,0 +1,11 @@
+* Intro2TheQueryverse
+  :PROPERTIES:
+  :CUSTOM_ID: intro2thequeryverse
+  :END:
+
+This notebook has all the code required to follow the tutorial by
+[[https://www.david-anthoff.com][David Anthoff]] on 6/14/2018. This notebook _is not_ a self contained
+introduction to the [[https://github.com/davidanthoff/Queryverse.jl][Queryverse.jl]], instead it is meant to complement
+the video tutorial.
+
+EOF
